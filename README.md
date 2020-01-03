@@ -1,1 +1,1 @@
-# Altium-Lib
+# Altium library
